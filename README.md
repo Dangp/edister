@@ -1,2 +1,2 @@
 # edister
-bvnbv
+Este proyecto está dirigido para la ayuda de estudiantes de Universidad (en este caso FES Aragón), el cual su principal objetivo es brindar apoyo académico de alumno a alumno. Y a su vez aumentar la calidad escolar de la Universidad,y  reducir el  numero de  alumnos reprobados .Este  programa se  enfoco a  materias del tronco comun de las  Ingenierias, posee un sistema de registro de usuarios, y asi mismo un catálogo de las asesorías impartidas por los compañeros de la Facultad, además de una función para el asesorado que evalue la asesoría recibida.
