@@ -1,0 +1,32 @@
+<?php
+namespace App\Model\Table;
+
+use Cake\ORM\Table;
+use Cake\Validation\Validator;
+
+use Cake\Event\Event;
+
+class UsuarioCursoTable extends Table
+{
+    public function initialize(array $config)
+    {
+        parent::initialize($config); 
+      $this->table('usuario_curso');
+      $this->displayField('usuario_curso');
+        $this->primaryKey('id_usuario_curso'); 
+         
+    }
+
+    public function validationDefault(Validator $validator)
+    {
+
+      
+            
+            
+            
+            
+
+        
+    }
+}
+?>
